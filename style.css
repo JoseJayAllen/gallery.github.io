@@ -52,6 +52,7 @@ section#gallery {
 
 /* Styles for the footer */
 footer {
+    background-color: #3f6061;
     color: #000000;
     text-align: center;
     padding: 1rem;
